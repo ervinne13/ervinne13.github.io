@@ -29,10 +29,8 @@
             }
         </style>
 
-		<meta name="og:title" content="Ervinne Sodusta | Github">
-		<meta name="og:description" content="Software Development Team Lead - Stargate BSi, Computer Engineer, Software Developer, Team Lead, Team Leader, JAVA, PHP, Freelancer">
-		<meta name="description" content="Software Development Team Lead - Stargate BSi, Computer Engineer, Software Developer, Team Lead, Team Leader, JAVA, PHP, Freelancer">				
-		
+        <meta name="description" content="Ervinne Sodusta | Github, Software Development Team Lead - Stargate BSi, Computer Engineer, Software Developer, Team Lead, Team Leader, JAVA, PHP, Freelancer">				
+
     </head>
 
     <body class="top-navigation pace-done">
@@ -94,7 +92,7 @@
                                                 <a href="https://www.facebook.com/ervinne.sodusta">Facebook</a>
                                             </span>
                                         </li>
-										 <li class="list-group-item">
+                                        <li class="list-group-item">
                                             <span class="col-xs-1"><i class="fa fa-linkedin"></i></span>
                                             <span class="text-muted">
                                                 <a href="https://www.linkedin.com/in/ervinne-sodusta-a8910977">LinkedIn</a>
@@ -179,8 +177,23 @@
                         <div class="col-lg-4">
                             <div class="ibox float-e-margins">
                                 <div class="ibox-title">
-                                    <h5>Skills / Technologies</h5>
+                                    <h5>General Skill Distribution</h5>
                                 </div>
+                                <div class="ibox-content">
+                                    <div class="row">
+                                        <div class="col-xs-12">
+                                            <div>
+                                                <canvas id="radar-skill-distribution"></canvas>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="ibox float-e-margins">
+                                <div class="ibox-title">
+                                    <h5>Skills / Technologies</h5>
+                                </div>                                
                                 <div class="ibox-content">
                                     <div class="row">
                                         <div class="col-xs-12">
@@ -226,7 +239,7 @@
                                         </div>
                                     </div>
                                 </div>
-								<div class="ibox-content">
+                                <div class="ibox-content">
                                     <div class="row">
                                         <div class="col-xs-12">
                                             <h4><span class="label label-circle">O</span> Others</h4>
@@ -249,11 +262,9 @@
                                     </div>
 
                                     <div class="vertical-timeline-content">
-                                        <h2>Stargate Business Solutions</h2>
+                                        <h2 class="text-navy">Stargate Business Solutions</h2>
                                         <h5>Software Development Team Lead</h5>
-                                        <p>
-
-                                        </p>                                        
+                                        <h5 class="text-orange">(Current Position)</h5>                                       
                                         <span class="vertical-date">
                                             2016 <br>
                                             <small>April</small>
@@ -385,6 +396,10 @@
 
             });
         </script>
+
+        <!--Charts-->
+        <script src="js/plugins/chartJs/Chart.min.js"></script>
+        <script src="js/skill-distribution.js"></script>
 
     </body>
 
