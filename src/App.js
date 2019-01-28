@@ -4,7 +4,7 @@ import ProfilePage from 'pages/ProfilePage'
 class App extends Component {
     render() {
         return (
-            <ProfilePage></ProfilePage>
+            <ProfilePage />
         );
     }
 }
