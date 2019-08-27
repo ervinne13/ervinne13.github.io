@@ -1,0 +1,2297 @@
+[
+{
+"_id": "577b5e799b0a5bee5cebbeaa",
+"accountStatus": "Active",
+"firstName": "Daisy",
+"familyName": "Gomez",
+"email": "daisy.gomez@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "577e34363d5cc588f2c140f0",
+"name": "Accounting Supervisor"
+},
+"displayName": "Daisy Gomez",
+"id": "577b5e799b0a5bee5cebbeaa"
+},
+{
+"_id": "577b612c9b0a5bee5cebbeaf",
+"accountStatus": "Active",
+"firstName": "Michel Hil",
+"familyName": "Ng",
+"email": "michael.ng@nuworks.ph",
+"department": {
+"_id": "577e347a3d5cc588f2c140f4",
+"name": "ExCom"
+},
+"position": {
+"_id": "577e34613d5cc588f2c140f3",
+"name": "Technology Director"
+},
+"displayName": "Michel Hil Ng",
+"id": "577b612c9b0a5bee5cebbeaf"
+},
+{
+"_id": "577b66209b0a5bee5cebbeb7",
+"accountStatus": "Active",
+"firstName": "Marianne",
+"familyName": "Mallari",
+"email": "ianne.mallari@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "577b3decba149dcb222c7b3a",
+"name": "QA Analyst"
+},
+"displayName": "Marianne Mallari",
+"id": "577b66209b0a5bee5cebbeb7"
+},
+{
+"_id": "577b67dba998c3f05fc4acac",
+"accountStatus": "Active",
+"firstName": "Leah",
+"familyName": "Bides",
+"email": "leah.bides@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "577b3d6fba149dcb222c7b33",
+"name": "Accounting Staff"
+},
+"displayName": "Leah Bides",
+"id": "577b67dba998c3f05fc4acac"
+},
+{
+"_id": "577b7d4ca998c3f05fc4acbe",
+"accountStatus": "Active",
+"firstName": "Lovely Ann",
+"familyName": "Agudera",
+"email": "ann.agudera@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "577b3d6fba149dcb222c7b33",
+"name": "Accounting Staff"
+},
+"displayName": "Lovely Ann Agudera",
+"id": "577b7d4ca998c3f05fc4acbe"
+},
+{
+"_id": "577b996fa998c3f05fc4acc9",
+"accountStatus": "Active",
+"firstName": "Alexis",
+"familyName": "Asual",
+"email": "alex.asual@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "56a5e8f6e5c123341f41ed94",
+"name": "Interactive Developer"
+},
+"displayName": "Alexis Asual",
+"id": "577b996fa998c3f05fc4acc9"
+},
+{
+"_id": "577db83009eb3a59709effee",
+"accountStatus": "Active",
+"firstName": "Michaelangelo",
+"familyName": "Dela Cruz",
+"email": "michael.delacruz@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "577b3decba149dcb222c7b3a",
+"name": "QA Analyst"
+},
+"displayName": "Michaelangelo Dela Cruz",
+"id": "577db83009eb3a59709effee"
+},
+{
+"_id": "577dc72509eb3a59709efff0",
+"accountStatus": "Active",
+"firstName": "Frederick Arvin",
+"familyName": "Mallari",
+"email": "fritz.mallari@nuworks.ph",
+"department": {
+"_id": "568cc210d44839f01e5c89ee",
+"name": "Information Technology"
+},
+"position": {
+"_id": "577b3da9ba149dcb222c7b37",
+"name": "Senior IT Support"
+},
+"displayName": "Frederick Arvin Mallari",
+"id": "577dc72509eb3a59709efff0"
+},
+{
+"_id": "577f41ad205ce2b865889602",
+"accountStatus": "Active",
+"firstName": "Beatrice Andrea",
+"familyName": "Del Rosario",
+"email": "andi.delrosario@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "59f1b6442061664a62958574",
+"name": "Social Media Executive"
+},
+"displayName": "Beatrice Andrea Del Rosario",
+"id": "577f41ad205ce2b865889602"
+},
+{
+"_id": "577f9234205ce2b865889613",
+"accountStatus": "Active",
+"firstName": "Jeffrey James",
+"familyName": "Saez",
+"email": "jeff.saez@nuworks.ph",
+"department": {
+"_id": "577e347a3d5cc588f2c140f4",
+"name": "ExCom"
+},
+"position": {
+"_id": "577e34613d5cc588f2c140f3",
+"name": "President and CEO"
+},
+"displayName": "Jeffrey James Saez",
+"id": "577f9234205ce2b865889613"
+},
+{
+"_id": "5784d001656f633a65165822",
+"accountStatus": "Active",
+"firstName": "Kevin Kester",
+"familyName": "Gayo",
+"email": "kevin.gayo@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "59f1b6442061664a62958574",
+"name": "Social Media Executive"
+},
+"displayName": "Kevin Kester Gayo",
+"id": "5784d001656f633a65165822"
+},
+{
+"_id": "5784d13f656f633a65165825",
+"accountStatus": "Active",
+"firstName": "Beatrice",
+"familyName": "Pagkalinawan",
+"email": "bea.pagkalinawan@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "577e34533d5cc588f2c140f2",
+"name": "Social Media Executive"
+},
+"displayName": "Beatrice Pagkalinawan",
+"id": "5784d13f656f633a65165825"
+},
+{
+"_id": "5785a644656f633a65165828",
+"accountStatus": "Active",
+"firstName": "Patrick",
+"familyName": "Dela Rosa",
+"email": "patrick.delarosa@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "577e34533d5cc588f2c140f2",
+"name": "Social Media Executive"
+},
+"displayName": "Patrick Dela Rosa",
+"id": "5785a644656f633a65165828"
+},
+{
+"_id": "5785af31656f633a6516582d",
+"accountStatus": "Active",
+"firstName": "Chelsea",
+"familyName": "Sullivan",
+"email": "chelsea.sullivan@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "56a5e92de5c123341f41ed96",
+"name": "Project Manager"
+},
+"displayName": "Chelsea Sullivan",
+"id": "5785af31656f633a6516582d"
+},
+{
+"_id": "5785af71656f633a65165830",
+"accountStatus": "Active",
+"firstName": "Juan Paulo",
+"familyName": "Coronel",
+"email": "jolo.coronel@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "577e34533d5cc588f2c140f2",
+"name": "Social Media Executive"
+},
+"displayName": "Juan Paulo Coronel",
+"id": "5785af71656f633a65165830"
+},
+{
+"_id": "57da1a7746042c9052414ecd",
+"accountStatus": "Active",
+"firstName": "Tomas Ross",
+"familyName": "De Leon",
+"email": "tomy.deleon@nuworks.ph",
+"department": {
+"_id": "577e347a3d5cc588f2c140f4",
+"name": "ExCom"
+},
+"position": {
+"_id": "577e34613d5cc588f2c140f3",
+"name": "COO / Operations Head"
+},
+"displayName": "Tomas Ross De Leon",
+"id": "57da1a7746042c9052414ecd"
+},
+{
+"_id": "57e2784744faff0c376a8fab",
+"accountStatus": "Active",
+"firstName": "Marie Angelica",
+"familyName": "Dela Rosa",
+"email": "mica.delarosa@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Copywriter"
+},
+"displayName": "Marie Angelica Dela Rosa",
+"id": "57e2784744faff0c376a8fab"
+},
+{
+"_id": "57e2790544faff0c376a8fb3",
+"accountStatus": "Active",
+"firstName": "Ryan Ide Vance",
+"familyName": "Catabijan",
+"email": "ryan.catabijan@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb185dbf8e1217ae0457",
+"name": "Business Unit Manager"
+},
+"displayName": "Ryan Ide Vance Catabijan",
+"id": "57e2790544faff0c376a8fb3"
+},
+{
+"_id": "57e27975c3518afc3ada45b2",
+"accountStatus": "Active",
+"firstName": "Meryll Jericha",
+"familyName": "Torres",
+"email": "meryll.torres@nuworks.ph",
+"department": {
+"_id": "57e1f8e35dbf8e1217ae0442",
+"name": "Media"
+},
+"position": {
+"_id": "57e1ff025dbf8e1217ae0465",
+"name": "Media Executive"
+},
+"displayName": "Meryll Jericha Torres",
+"id": "57e27975c3518afc3ada45b2"
+},
+{
+"_id": "57e27975c3518afc3ada45b3",
+"accountStatus": "Active",
+"firstName": "Dominador III",
+"familyName": "Garcia",
+"email": "dom.garcia@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1fc0b5dbf8e1217ae045c",
+"name": "Flash Developer"
+},
+"displayName": "Dominador III Garcia",
+"id": "57e27975c3518afc3ada45b3"
+},
+{
+"_id": "57e27975c3518afc3ada45b5",
+"accountStatus": "Active",
+"firstName": "Mark Caesar",
+"familyName": "Lavin",
+"email": "mark.lavin@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1f9d75dbf8e1217ae0446",
+"name": "Associate Creative Director"
+},
+"displayName": "Mark Caesar Lavin",
+"id": "57e27975c3518afc3ada45b5"
+},
+{
+"_id": "57e27975c3518afc3ada45b8",
+"accountStatus": "Active",
+"firstName": "Hannah Katherina",
+"familyName": "Sulit",
+"email": "hannah.sulit@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb745dbf8e1217ae045b",
+"name": "Senior Account Manager"
+},
+"displayName": "Hannah Katherina Sulit",
+"id": "57e27975c3518afc3ada45b8"
+},
+{
+"_id": "57e27975c3518afc3ada45b9",
+"accountStatus": "Active",
+"firstName": "Jeffrey",
+"familyName": "Mabazza",
+"email": "jeffrey.mabazza@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e202205dbf8e1217ae046d",
+"name": "Web Developer / Back-End Developer"
+},
+"displayName": "Jeffrey Mabazza",
+"id": "57e27975c3518afc3ada45b9"
+},
+{
+"_id": "57e27975c3518afc3ada45bb",
+"accountStatus": "Active",
+"firstName": "Angeli Joy",
+"familyName": "Valdez",
+"email": "angeli.valdez@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1f9f85dbf8e1217ae0448",
+"name": "Account Supervisor"
+},
+"displayName": "Angeli Joy Valdez",
+"id": "57e27975c3518afc3ada45bb"
+},
+{
+"_id": "57e27975c3518afc3ada45bc",
+"accountStatus": "Active",
+"firstName": "Vashti Vanessa",
+"familyName": "Choa-Shi",
+"email": "vashti.choa-shi@nuworks.ph",
+"department": {
+"_id": "5c7793a82b58072c8ed97acc",
+"name": "Analytics"
+},
+"position": {
+"_id": "57e1fb015dbf8e1217ae0456",
+"name": "Senior Analyst"
+},
+"displayName": "Vashti Vanessa Choa-Shi",
+"id": "57e27975c3518afc3ada45bc"
+},
+{
+"_id": "57e27975c3518afc3ada45be",
+"accountStatus": "Active",
+"firstName": "Ma. Concepcion",
+"familyName": "Balmaceda",
+"email": "connie.balmaceda@nuworks.ph",
+"department": {
+"_id": "577e347a3d5cc588f2c140f4",
+"name": "ExCom"
+},
+"position": {
+"_id": "577e34613d5cc588f2c140f3",
+"name": "Finance, HR and Admin Director"
+},
+"displayName": "Ma. Concepcion Balmaceda",
+"id": "57e27975c3518afc3ada45be"
+},
+{
+"_id": "57e27975c3518afc3ada45bf",
+"accountStatus": "Active",
+"firstName": "Clyde Gemar",
+"familyName": "Narte",
+"email": "clyde.narte@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Senior Graphic Designer"
+},
+"displayName": "Clyde Gemar Narte",
+"id": "57e27975c3518afc3ada45bf"
+},
+{
+"_id": "57e27975c3518afc3ada45c1",
+"accountStatus": "Active",
+"firstName": "Antonio Jr.",
+"familyName": "Da Rocha",
+"email": "anton.darocha@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e1fa135dbf8e1217ae044b",
+"name": "Interactive Designer"
+},
+"displayName": "Antonio Jr. Da Rocha",
+"id": "57e27975c3518afc3ada45c1"
+},
+{
+"_id": "57e27975c3518afc3ada45c2",
+"accountStatus": "Active",
+"firstName": "Nicoline Rosalina",
+"familyName": "Lizarondo",
+"email": "nikki.lizarondo@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb745dbf8e1217ae045b",
+"name": "Senior Account Manager"
+},
+"displayName": "Nicoline Rosalina Lizarondo",
+"id": "57e27975c3518afc3ada45c2"
+},
+{
+"_id": "57e27975c3518afc3ada45c3",
+"accountStatus": "Active",
+"firstName": "Lorenzo",
+"familyName": "Nanagas",
+"email": "enzo.nanagas@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "577e34363d5cc588f2c140f0",
+"name": "Finance Analyst"
+},
+"displayName": "Lorenzo Nanagas",
+"id": "57e27975c3518afc3ada45c3"
+},
+{
+"_id": "57e27975c3518afc3ada45c7",
+"accountStatus": "Active",
+"firstName": "Lloyd",
+"familyName": "Zapanta",
+"email": "lloyd.zapanta@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa775dbf8e1217ae0450",
+"name": "Junior Art Director"
+},
+"displayName": "Lloyd Zapanta",
+"id": "57e27975c3518afc3ada45c7"
+},
+{
+"_id": "57e27975c3518afc3ada45ca",
+"accountStatus": "Active",
+"firstName": "John Bellarmine",
+"familyName": "Javier",
+"email": "john.javier@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1f9d75dbf8e1217ae0446",
+"name": "Associate Creative Director"
+},
+"displayName": "John Bellarmine Javier",
+"id": "57e27975c3518afc3ada45ca"
+},
+{
+"_id": "57e27975c3518afc3ada45d0",
+"accountStatus": "Active",
+"firstName": "Idonna Joyce",
+"familyName": "Lacson",
+"email": "idonna.lacson@nuworks.ph",
+"department": {
+"_id": "5c7793a82b58072c8ed97acc",
+"name": "Analytics"
+},
+"position": {
+"_id": "57e1ff315dbf8e1217ae0468",
+"name": "Digital Analyst"
+},
+"displayName": "Idonna Joyce Lacson",
+"id": "57e27975c3518afc3ada45d0"
+},
+{
+"_id": "57e27975c3518afc3ada45d8",
+"accountStatus": "Active",
+"firstName": "Robert",
+"familyName": "Valdellon",
+"email": "robert.valdellon@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Robert Valdellon",
+"id": "57e27975c3518afc3ada45d8"
+},
+{
+"_id": "57e27975c3518afc3ada45db",
+"accountStatus": "Active",
+"firstName": "Lourdes Susana",
+"familyName": "Batac",
+"email": "lourdes.batac@nuworks.ph",
+"department": {
+"_id": "5c7793a22b58072c8ed97acb",
+"name": "Strategy"
+},
+"position": {
+"_id": "57e1fa865dbf8e1217ae0451",
+"name": "Associate Strategy Head"
+},
+"displayName": "Lourdes Susana Batac",
+"id": "57e27975c3518afc3ada45db"
+},
+{
+"_id": "57e27975c3518afc3ada45dc",
+"accountStatus": "Active",
+"firstName": "Mary Carmilou",
+"familyName": "Castro",
+"email": "carmi.castro@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb185dbf8e1217ae0457",
+"name": "Business Unit Manager"
+},
+"displayName": "Mary Carmilou Castro",
+"id": "57e27975c3518afc3ada45dc"
+},
+{
+"_id": "57e27975c3518afc3ada45dd",
+"accountStatus": "Active",
+"firstName": "Anna Inez",
+"familyName": "Coronel",
+"email": "annina.coronel@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Copywriter"
+},
+"displayName": "Anna Inez Coronel",
+"id": "57e27975c3518afc3ada45dd"
+},
+{
+"_id": "57e27975c3518afc3ada45de",
+"accountStatus": "Active",
+"firstName": "Blanche Margaret",
+"familyName": "Llanes",
+"email": "blanche.llanes@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e2025a5dbf8e1217ae0472",
+"name": "Web Graphic Designer"
+},
+"displayName": "Blanche Margaret Llanes",
+"id": "57e27975c3518afc3ada45de"
+},
+{
+"_id": "57e27975c3518afc3ada45df",
+"accountStatus": "Active",
+"firstName": "Diane",
+"familyName": "Aguila",
+"email": "diane.aguila@nuworks.ph",
+"department": {
+"_id": "57e1f8c05dbf8e1217ae0440",
+"name": "Admin"
+},
+"position": {
+"_id": "57e1fc325dbf8e1217ae045e",
+"name": "Admin Assistant"
+},
+"displayName": "Diane Aguila",
+"id": "57e27975c3518afc3ada45df"
+},
+{
+"_id": "57e27975c3518afc3ada45e1",
+"accountStatus": "Active",
+"firstName": "John Paul",
+"familyName": "Sanchez",
+"email": "jp.sanchez@nuworks.ph",
+"department": {
+"_id": "5806ebe2f89f3c2b3ab743c2",
+"name": "Corporate Communications"
+},
+"position": {
+"_id": "57e1ff235dbf8e1217ae0467",
+"name": "Corporate Communcations Executive"
+},
+"displayName": "John Paul Sanchez",
+"id": "57e27975c3518afc3ada45e1"
+},
+{
+"_id": "57e27975c3518afc3ada45e6",
+"accountStatus": "Active",
+"firstName": "Jefferson",
+"familyName": "Claud",
+"email": "jefferson.claud@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e201c75dbf8e1217ae046c",
+"name": "Back-End Developer / Dev Ops"
+},
+"displayName": "Jefferson Claud",
+"id": "57e27975c3518afc3ada45e6"
+},
+{
+"_id": "57e27975c3518afc3ada45e7",
+"accountStatus": "Active",
+"firstName": "Cherrie Mae",
+"familyName": "Serranillo",
+"email": "mae.serranillo@nuworks.ph",
+"department": {
+"_id": "5c7793a22b58072c8ed97acb",
+"name": "Strategy"
+},
+"position": {
+"_id": "5cc80706d2888a15e9ce922b",
+"name": "Strategy Manager"
+},
+"displayName": "Cherrie Mae Serranillo",
+"id": "57e27975c3518afc3ada45e7"
+},
+{
+"_id": "57e27975c3518afc3ada45ec",
+"accountStatus": "Active",
+"firstName": "Michael",
+"familyName": "Yap",
+"email": "michael.yap@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1fc0b5dbf8e1217ae045c",
+"name": "Front-End Developer"
+},
+"displayName": "Michael Yap",
+"id": "57e27975c3518afc3ada45ec"
+},
+{
+"_id": "57e27975c3518afc3ada45ee",
+"accountStatus": "Active",
+"firstName": "Ma. Patricia Isabel",
+"familyName": "Bautista",
+"email": "pat.bautista@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1f9cc5dbf8e1217ae0445",
+"name": "Client Services Director"
+},
+"displayName": "Ma. Patricia Isabel Bautista",
+"id": "57e27975c3518afc3ada45ee"
+},
+{
+"_id": "57e27975c3518afc3ada45ef",
+"accountStatus": "Active",
+"firstName": "Monica",
+"familyName": "Climaco",
+"email": "monica.climaco@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1ff145dbf8e1217ae0466",
+"name": "Business Analyst"
+},
+"displayName": "Monica Climaco",
+"id": "57e27975c3518afc3ada45ef"
+},
+{
+"_id": "57e27975c3518afc3ada45f1",
+"accountStatus": "Active",
+"firstName": "Marie Erica",
+"familyName": "Gomez",
+"email": "erica.gomez@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Account Executive"
+},
+"displayName": "Marie Erica Gomez",
+"id": "57e27975c3518afc3ada45f1"
+},
+{
+"_id": "57e3551c60fca0915246ad13",
+"accountStatus": "Active",
+"firstName": "Pia Melissa",
+"familyName": "Encarnacion",
+"email": "pia.encarnacion@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e2028c5dbf8e1217ae0474",
+"name": "Associate Product Manager"
+},
+"displayName": "Pia Melissa Encarnacion",
+"id": "57e3551c60fca0915246ad13"
+},
+{
+"_id": "57e3551c60fca0915246ad14",
+"accountStatus": "Active",
+"firstName": "Darren",
+"familyName": "Hizon",
+"email": "darren.hizon@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1fc0b5dbf8e1217ae045c",
+"name": "Front-End Developer"
+},
+"displayName": "Darren Hizon",
+"id": "57e3551c60fca0915246ad14"
+},
+{
+"_id": "57e3745260fca0915246af5f",
+"accountStatus": "Active",
+"firstName": "Henry",
+"familyName": "Glo",
+"email": "henri.glo@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Copywriter"
+},
+"displayName": "Henry Glo",
+"id": "57e3745260fca0915246af5f"
+},
+{
+"_id": "57e3ae0860fca0915246b17f",
+"accountStatus": "Active",
+"firstName": "Zyrus",
+"familyName": "Reyes",
+"email": "zyrus.reyes@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1fe6d5dbf8e1217ae0464",
+"name": "Full-Stack Developer"
+},
+"displayName": "Zyrus Reyes",
+"id": "57e3ae0860fca0915246b17f"
+},
+{
+"_id": "57fdfd87ee01af7f7f853b34",
+"accountStatus": "Active",
+"firstName": "Samantha",
+"familyName": "Gonzalez",
+"email": "samantha.gonzalez@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Senior Graphic Designer"
+},
+"displayName": "Samantha Gonzalez",
+"id": "57fdfd87ee01af7f7f853b34"
+},
+{
+"_id": "5805f1d0f89f3c2b3ab740f5",
+"accountStatus": "Active",
+"firstName": "Raika Francheska",
+"familyName": "Rodriguez",
+"email": "raika.rodriguez@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "577e34533d5cc588f2c140f2",
+"name": "Social Media Executive"
+},
+"displayName": "Raika Francheska Rodriguez",
+"id": "5805f1d0f89f3c2b3ab740f5"
+},
+{
+"_id": "580879f7f407f9cc121a14e8",
+"accountStatus": "Active",
+"firstName": "Liza Bernice",
+"familyName": "Castrillo",
+"email": "liza.castrillo@nuworks.ph",
+"department": {
+"_id": "568cc218d44839f01e5c89ef",
+"name": "Human Resources"
+},
+"position": {
+"_id": "577b3d53ba149dcb222c7b32",
+"name": "HR Supervisor"
+},
+"displayName": "Liza Bernice Castrillo",
+"id": "580879f7f407f9cc121a14e8"
+},
+{
+"_id": "5821b57728f2f81f5b2fbb25",
+"accountStatus": "Active",
+"firstName": "Alvin",
+"familyName": "Claros",
+"email": "alvin.claros@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa775dbf8e1217ae0450",
+"name": "Senior Art Director"
+},
+"displayName": "Alvin Claros",
+"id": "5821b57728f2f81f5b2fbb25"
+},
+{
+"_id": "584a14c795643cc33861f0cf",
+"accountStatus": "Active",
+"firstName": "Alberto Gian Carlo",
+"familyName": "Ante",
+"email": "gian.ante@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e2022e5dbf8e1217ae046e",
+"name": "Shooter / Editor"
+},
+"displayName": "Alberto Gian Carlo Ante",
+"id": "584a14c795643cc33861f0cf"
+},
+{
+"_id": "58b518302e2492d805c29f05",
+"accountStatus": "Active",
+"firstName": "Daniel Joshua",
+"familyName": "Valbuena",
+"email": "daniel.valbuena@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Copywriter"
+},
+"displayName": "Daniel Joshua Valbuena",
+"id": "58b518302e2492d805c29f05"
+},
+{
+"_id": "58b7c223e0b34621417e2ffa",
+"accountStatus": "Active",
+"firstName": "Michael Francoise",
+"familyName": "Lego",
+"email": "michael.lego@nuworks.ph",
+"department": {
+"_id": "568cc210d44839f01e5c89ee",
+"name": "Information Technology"
+},
+"position": {
+"_id": "577b3d9dba149dcb222c7b36",
+"name": "Audio Visual Technician"
+},
+"displayName": "Michael Francoise Lego",
+"id": "58b7c223e0b34621417e2ffa"
+},
+{
+"_id": "58d9de1bf0c850a22aa1dcc4",
+"accountStatus": "Active",
+"firstName": "Jose Lorenzo",
+"familyName": "Cabayan",
+"email": "enzo.cabayan@nuworks.ph",
+"department": {
+"_id": "57e1f8c05dbf8e1217ae0440",
+"name": "Admin"
+},
+"position": {
+"_id": "57e1fc325dbf8e1217ae045e",
+"name": "Admin Assistant"
+},
+"displayName": "Jose Lorenzo Cabayan",
+"id": "58d9de1bf0c850a22aa1dcc4"
+},
+{
+"_id": "58de37833d01fb7772348a2e",
+"accountStatus": "Active",
+"firstName": "Rogelio",
+"familyName": "Javier",
+"email": "jun.javier@nuworks.ph",
+"department": {
+"_id": "57e1f8c05dbf8e1217ae0440",
+"name": "Admin"
+},
+"position": {
+"_id": "57e1fe315dbf8e1217ae0462",
+"name": "Janitor / Messenger"
+},
+"displayName": "Rogelio Javier",
+"id": "58de37833d01fb7772348a2e"
+},
+{
+"_id": "58de3a973d01fb7772348a2f",
+"accountStatus": "Active",
+"firstName": "Jackeline",
+"familyName": "Bayubay",
+"email": "jacky.bayubay@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "57e1f9e65dbf8e1217ae0447",
+"name": "Collector / Messenger"
+},
+"displayName": "Jackeline Bayubay",
+"id": "58de3a973d01fb7772348a2f"
+},
+{
+"_id": "58ec530da71fff12525107f7",
+"accountStatus": "Active",
+"firstName": "Camille Patrice",
+"familyName": "Chua",
+"email": "cam.chua@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa775dbf8e1217ae0450",
+"name": "Art Director"
+},
+"displayName": "Camille Patrice Chua",
+"id": "58ec530da71fff12525107f7"
+},
+{
+"_id": "58f8637bf28bbb23069b3b21",
+"accountStatus": "Active",
+"firstName": "Rizalyn",
+"familyName": "Lachica",
+"email": "riza.lachica@nuworks.ph",
+"department": {
+"_id": "57e1f8c05dbf8e1217ae0440",
+"name": "Admin"
+},
+"position": {
+"_id": "57e1fe315dbf8e1217ae0462",
+"name": "Janitor /Messenger"
+},
+"displayName": "Rizalyn Lachica",
+"id": "58f8637bf28bbb23069b3b21"
+},
+{
+"_id": "5934fa91cb2ef79d150bd8e5",
+"accountStatus": "Active",
+"firstName": "Mark Rowi",
+"familyName": "Dizon",
+"email": "rowi.dizon@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1fc0b5dbf8e1217ae045c",
+"name": "Front-End Developer"
+},
+"displayName": "Mark Rowi Dizon",
+"id": "5934fa91cb2ef79d150bd8e5"
+},
+{
+"_id": "593502e2cb2ef79d150bd8ea",
+"accountStatus": "Active",
+"firstName": "Avery Austin",
+"familyName": "Wong",
+"email": "avery.wong@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb745dbf8e1217ae045b",
+"name": "Senior Account Manager"
+},
+"displayName": "Avery Austin Wong",
+"id": "593502e2cb2ef79d150bd8ea"
+},
+{
+"_id": "59352c121522e74724b4ed27",
+"accountStatus": "Active",
+"firstName": "Samantha",
+"familyName": "Monserrate",
+"email": "sam.monserrate@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "5beb83fed87c4b61b315cc49",
+"name": "Traffic Officer"
+},
+"displayName": "Samantha Monserrate",
+"id": "59352c121522e74724b4ed27"
+},
+{
+"_id": "59434b405b4304bb116ce010",
+"accountStatus": "Active",
+"firstName": "Ryan",
+"familyName": "Rubillar",
+"email": "ryan.rubillar@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fb5c5dbf8e1217ae045a",
+"name": "Creative Director"
+},
+"displayName": "Ryan Rubillar",
+"id": "59434b405b4304bb116ce010"
+},
+{
+"_id": "5981528d94f984602e7dd037",
+"accountStatus": "Active",
+"firstName": "Rosario Belen",
+"familyName": "Reyes",
+"email": "rose.reyes@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb185dbf8e1217ae0457",
+"name": "Business Unit Manager"
+},
+"displayName": "Rosario Belen Reyes",
+"id": "5981528d94f984602e7dd037"
+},
+{
+"_id": "5981673967bc1444787ddc78",
+"accountStatus": "Active",
+"firstName": "Ralph Carlo",
+"familyName": "Jaranilla ",
+"email": "ralph.jaranilla@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "577e34363d5cc588f2c140f0",
+"name": "Finance Officer"
+},
+"displayName": "Ralph Carlo Jaranilla ",
+"id": "5981673967bc1444787ddc78"
+},
+{
+"_id": "5981702367bc1444787ddc79",
+"accountStatus": "Active",
+"firstName": "Nova",
+"familyName": "Lindain",
+"email": "nova.lindain@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "577b3d7eba149dcb222c7b34",
+"name": "Finance Support"
+},
+"displayName": "Nova Lindain",
+"id": "5981702367bc1444787ddc79"
+},
+{
+"_id": "5981a70767bc1444787ddca4",
+"accountStatus": "Active",
+"firstName": "Jed Kevin",
+"familyName": "Morada",
+"email": "jed.morada@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Jed Kevin Morada",
+"id": "5981a70767bc1444787ddca4"
+},
+{
+"_id": "598aba4f67bc1444787dddda",
+"accountStatus": "Active",
+"firstName": "Carmela Monica",
+"familyName": "Bautista",
+"email": "cara.bautista@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1f9d75dbf8e1217ae0446",
+"name": "Associate Creative Director"
+},
+"displayName": "Carmela Monica Bautista",
+"id": "598aba4f67bc1444787dddda"
+},
+{
+"_id": "599e91f067bc1444787de038",
+"accountStatus": "Active",
+"firstName": "Melody",
+"familyName": "Santos ",
+"email": "melody.santos@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Melody Santos ",
+"id": "599e91f067bc1444787de038"
+},
+{
+"_id": "59ddaeb72061664a6295827e",
+"accountStatus": "Active",
+"firstName": "Ervinne",
+"familyName": "Sodusta",
+"email": "ervinne.sodusta@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e202205dbf8e1217ae046d",
+"name": "Back-End Developer"
+},
+"displayName": "Ervinne Sodusta",
+"id": "59ddaeb72061664a6295827e"
+},
+{
+"_id": "59e87b162061664a62958451",
+"accountStatus": "Active",
+"firstName": "Maria Katrina Nicollette",
+"familyName": "Ojeda",
+"email": "nika.ojeda@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1f9f85dbf8e1217ae0448",
+"name": "Account Supervisor"
+},
+"displayName": "Maria Katrina Nicollette Ojeda",
+"id": "59e87b162061664a62958451"
+},
+{
+"_id": "5a0d784a2aece13864af6452",
+"accountStatus": "Active",
+"firstName": "Jordan Jay-R",
+"familyName": "Jacinto",
+"email": "jordan.jacinto@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Multimedia Artist"
+},
+"displayName": "Jordan Jay-R Jacinto",
+"id": "5a0d784a2aece13864af6452"
+},
+{
+"_id": "5a261c9984c1c0dd54c7bfa4",
+"accountStatus": "Active",
+"firstName": "Jasmine Meriel",
+"familyName": "Salvo",
+"email": "jasmine.salvo@nuworks.ph",
+"department": {
+"_id": "568cc218d44839f01e5c89ef",
+"name": "Human Resources"
+},
+"position": {
+"_id": "57e202825dbf8e1217ae0473",
+"name": "HR Assistant for Recruitment"
+},
+"displayName": "Jasmine Meriel Salvo",
+"id": "5a261c9984c1c0dd54c7bfa4"
+},
+{
+"_id": "5a5885f477fd3e4e1d5d21b7",
+"accountStatus": "Active",
+"firstName": "Gerlie Ann",
+"familyName": "Genetiano",
+"email": "geann.genetiano@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "577b3decba149dcb222c7b3a",
+"name": "Senior Quality Assurance Analyst"
+},
+"displayName": "Gerlie Ann Genetiano",
+"id": "5a5885f477fd3e4e1d5d21b7"
+},
+{
+"_id": "5a6851b99f40cd153bf91cec",
+"accountStatus": "Active",
+"firstName": "Jenette",
+"familyName": "Delloro",
+"email": "jenette.deloro@nuworks.ph",
+"department": {
+"_id": "57e1f8c05dbf8e1217ae0440",
+"name": "Admin"
+},
+"position": {
+"_id": "57e1fc325dbf8e1217ae045e",
+"name": "Admin Assistant"
+},
+"displayName": "Jenette Delloro",
+"id": "5a6851b99f40cd153bf91cec"
+},
+{
+"_id": "5a8d43029ab5643abf2b43e5",
+"accountStatus": "Active",
+"firstName": "Rodelio",
+"familyName": "Javier",
+"email": "jimboy.javier@nuworks.ph",
+"department": {
+"_id": "57e1f8c05dbf8e1217ae0440",
+"name": "Admin"
+},
+"position": {
+"_id": "57e1fe315dbf8e1217ae0462",
+"name": "Janitor / Messenger"
+},
+"displayName": "Rodelio Javier",
+"id": "5a8d43029ab5643abf2b43e5"
+},
+{
+"_id": "5a8e26cb9ab5643abf2b4401",
+"accountStatus": "Active",
+"firstName": "Francesca",
+"familyName": "Pangilinan",
+"email": "cheska.pangilinan@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Copywriter"
+},
+"displayName": "Francesca Pangilinan",
+"id": "5a8e26cb9ab5643abf2b4401"
+},
+{
+"_id": "5aaa299716f9953b74f6127c",
+"accountStatus": "Active",
+"firstName": "Mikail Giuseppe",
+"familyName": "Roque",
+"email": "seppi.roque@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1f9f85dbf8e1217ae0448",
+"name": "Account Supervisor"
+},
+"displayName": "Mikail Giuseppe Roque",
+"id": "5aaa299716f9953b74f6127c"
+},
+{
+"_id": "5ac1db032b79b56e52c5a2ac",
+"accountStatus": "Active",
+"firstName": "Franco Jr",
+"familyName": "Villagonzalo",
+"email": "franco.villagonzalo@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1f9d75dbf8e1217ae0446",
+"name": "Associate Creative Director"
+},
+"displayName": "Franco Jr Villagonzalo",
+"id": "5ac1db032b79b56e52c5a2ac"
+},
+{
+"_id": "5ac47293a079a077e03bb9f5",
+"accountStatus": "Active",
+"firstName": "Philip Van",
+"familyName": "Inting",
+"email": "philip.inting@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "56a5e8f6e5c123341f41ed94",
+"name": "Interactive Developer"
+},
+"displayName": "Philip Van Inting",
+"id": "5ac47293a079a077e03bb9f5"
+},
+{
+"_id": "5ad45e77a0a86f70d520eebd",
+"accountStatus": "Active",
+"firstName": "Jia Mae",
+"familyName": "Bomediano",
+"email": "jia.bomediano@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Traffic Associate"
+},
+"displayName": "Jia Mae Bomediano",
+"id": "5ad45e77a0a86f70d520eebd"
+},
+{
+"_id": "5adef8c0ffdd0b1f704daba3",
+"accountStatus": "Active",
+"firstName": "Nicole Ann",
+"familyName": "De Guia",
+"email": "nicole.deguia@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Nicole Ann De Guia",
+"id": "5adef8c0ffdd0b1f704daba3"
+},
+{
+"_id": "5aefe1bf93d9300da398eaa1",
+"accountStatus": "Active",
+"firstName": "Janine Christianne",
+"familyName": "Teng",
+"email": "janine.teng@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Designer"
+},
+"displayName": "Janine Christianne Teng",
+"id": "5aefe1bf93d9300da398eaa1"
+},
+{
+"_id": "5afa67780afe4f73ea55a207",
+"accountStatus": "Active",
+"firstName": "Francisse Anne",
+"familyName": "Frias",
+"email": "francisse.frias@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e2022e5dbf8e1217ae046e",
+"name": "Producer"
+},
+"displayName": "Francisse Anne Frias",
+"id": "5afa67780afe4f73ea55a207"
+},
+{
+"_id": "5b1db4248460b4571dc93cdb",
+"accountStatus": "Active",
+"firstName": "NAIE ANNE",
+"familyName": "MEMPIN\t",
+"email": "naie.mempin@nuworks.ph",
+"department": {
+"_id": "5c7793a82b58072c8ed97acc",
+"name": "Analytics"
+},
+"position": {
+"_id": "57e1ff315dbf8e1217ae0468",
+"name": "Jr. Analyst"
+},
+"displayName": "NAIE ANNE MEMPIN\t",
+"id": "5b1db4248460b4571dc93cdb"
+},
+{
+"_id": "5b271f958460b4571dc93dd5",
+"accountStatus": "Active",
+"firstName": "Julia Ysabelle",
+"familyName": "Temeña",
+"email": "julia.temena@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Account Manager"
+},
+"displayName": "Julia Ysabelle Temeña",
+"id": "5b271f958460b4571dc93dd5"
+},
+{
+"_id": "5b4bfa6d045acc2def223ea6",
+"accountStatus": "Active",
+"firstName": "Beatriz Isabel",
+"familyName": "Espino",
+"email": "bea.espino@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Beatriz Isabel Espino",
+"id": "5b4bfa6d045acc2def223ea6"
+},
+{
+"_id": "5b63dc9c78a120082aa3d8f1",
+"accountStatus": "Active",
+"firstName": "Alfonso\t",
+"familyName": "Tinio",
+"email": "alfonso.tinio@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Senior Copywriter"
+},
+"displayName": "Alfonso\t Tinio",
+"id": "5b63dc9c78a120082aa3d8f1"
+},
+{
+"_id": "5b7117e28098a566b365e969",
+"accountStatus": "Active",
+"firstName": "Kristiana Felixia",
+"familyName": "Alcoriza",
+"email": "krisa.alcoriza@nuworks.ph",
+"department": {
+"_id": "57e1f8e35dbf8e1217ae0442",
+"name": "Media"
+},
+"position": {
+"_id": "57e1ff025dbf8e1217ae0465",
+"name": "Media Executive"
+},
+"displayName": "Kristiana Felixia Alcoriza",
+"id": "5b7117e28098a566b365e969"
+},
+{
+"_id": "5b7120bf8098a566b365e96b",
+"accountStatus": "Active",
+"firstName": "Rachel Leanne",
+"familyName": "Kalalang",
+"email": "rachel.kalalang@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Account Manager"
+},
+"displayName": "Rachel Leanne Kalalang",
+"id": "5b7120bf8098a566b365e96b"
+},
+{
+"_id": "5b7697068098a566b365eaf3",
+"accountStatus": "Active",
+"firstName": "Jonard",
+"familyName": "Dela Cruz",
+"email": "jonard.delacruz@nuworks.ph",
+"department": {
+"_id": "57e1f8e35dbf8e1217ae0442",
+"name": "Media"
+},
+"position": {
+"_id": "57e1ff025dbf8e1217ae0465",
+"name": "Media Executive"
+},
+"displayName": "Jonard Dela Cruz",
+"id": "5b7697068098a566b365eaf3"
+},
+{
+"_id": "5b7a4d5e8098a566b365eb24",
+"accountStatus": "Active",
+"firstName": "Napoleon",
+"familyName": "Cariño",
+"email": "nap.carino@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e202205dbf8e1217ae046d",
+"name": "Back-end Developer"
+},
+"displayName": "Napoleon Cariño",
+"id": "5b7a4d5e8098a566b365eb24"
+},
+{
+"_id": "5b7e53148098a566b365ebc1",
+"accountStatus": "Active",
+"firstName": "Adrianne Kae",
+"familyName": "Dionisio",
+"email": "kai.dionisio@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "577e34533d5cc588f2c140f2",
+"name": "Social Media Executive"
+},
+"displayName": "Adrianne Kae Dionisio",
+"id": "5b7e53148098a566b365ebc1"
+},
+{
+"_id": "5b7e7a6f8098a566b365ebd4",
+"accountStatus": "Active",
+"firstName": "Jocel Angelie",
+"familyName": "Ulaye",
+"email": "ange.ulaye@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1fc0b5dbf8e1217ae045c",
+"name": "Front-end Developer"
+},
+"displayName": "Jocel Angelie Ulaye",
+"id": "5b7e7a6f8098a566b365ebd4"
+},
+{
+"_id": "5b84f1628098a566b365ec34",
+"accountStatus": "Active",
+"firstName": "Natasha Catherina",
+"familyName": "Uichico",
+"email": "tasha.uichico@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Junior Account Manager"
+},
+"displayName": "Natasha Catherina Uichico",
+"id": "5b84f1628098a566b365ec34"
+},
+{
+"_id": "5b84fca58098a566b365ec3b",
+"accountStatus": "Active",
+"firstName": "Alessandra",
+"familyName": "Artadi",
+"email": "sandra.artadi@nuworks.ph",
+"department": {
+"_id": "58cb652d4941901e0fc2a579",
+"name": "Content Production"
+},
+"position": {
+"_id": "57e2022e5dbf8e1217ae046e",
+"name": "Senior Producer"
+},
+"displayName": "Alessandra Artadi",
+"id": "5b84fca58098a566b365ec3b"
+},
+{
+"_id": "5bb1e4c52312361edbee423a",
+"accountStatus": "Active",
+"firstName": "Gerardine Joy",
+"familyName": "Marcelo",
+"email": "geejay.marcelo@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "56a5e92de5c123341f41ed96",
+"name": "Project Manager"
+},
+"displayName": "Gerardine Joy Marcelo",
+"id": "5bb1e4c52312361edbee423a"
+},
+{
+"_id": "5bbad4b52312361edbee43c7",
+"accountStatus": "Active",
+"firstName": "Caxandra",
+"familyName": "Ongkiko",
+"email": "cas.ongkiko@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Account Manager"
+},
+"displayName": "Caxandra Ongkiko",
+"id": "5bbad4b52312361edbee43c7"
+},
+{
+"_id": "5bc53cc12312361edbee4535",
+"accountStatus": "Active",
+"firstName": "Heherson",
+"familyName": "Tengco",
+"email": "jason.tengco@nuworks.ph",
+"department": {
+"_id": "57e1f8e35dbf8e1217ae0442",
+"name": "Media"
+},
+"position": {
+"_id": "5a02c3122aece13864af6362",
+"name": "Media Director"
+},
+"displayName": "Heherson Tengco",
+"id": "5bc53cc12312361edbee4535"
+},
+{
+"_id": "5bc8462b2312361edbee45e2",
+"accountStatus": "Active",
+"firstName": "Dainelle Fae",
+"familyName": "Perez",
+"email": "dey.perez@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Junior Copywriter"
+},
+"displayName": "Dainelle Fae Perez",
+"id": "5bc8462b2312361edbee45e2"
+},
+{
+"_id": "5bcd7b762312361edbee4663",
+"accountStatus": "Active",
+"firstName": "Aaron Emmanuel",
+"familyName": "Ursolino",
+"email": "aaron.ursolino@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb185dbf8e1217ae0457",
+"name": "Business Unit Manager"
+},
+"displayName": "Aaron Emmanuel Ursolino",
+"id": "5bcd7b762312361edbee4663"
+},
+{
+"_id": "5bdfecac2312361edbee4835",
+"accountStatus": "Active",
+"firstName": "Pauline Joy",
+"familyName": "Carlos",
+"email": "patchi.carlos@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Junior Account Manager"
+},
+"displayName": "Pauline Joy Carlos",
+"id": "5bdfecac2312361edbee4835"
+},
+{
+"_id": "5be4188a2312361edbee4958",
+"accountStatus": "Active",
+"firstName": "Khryzzle Joanne",
+"familyName": "Hojas",
+"email": "khaye.hojas@nuworks.ph",
+"department": {
+"_id": "577e34993d5cc588f2c140f5",
+"name": "Engagement"
+},
+"position": {
+"_id": "577e34533d5cc588f2c140f2",
+"name": "Social Media Executive"
+},
+"displayName": "Khryzzle Joanne Hojas",
+"id": "5be4188a2312361edbee4958"
+},
+{
+"_id": "5be974ded87c4b61b315cc09",
+"accountStatus": "Active",
+"firstName": "Ma. Arianna Felicia",
+"familyName": "Potenciano",
+"email": "yanna.potenciano@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Account Manager"
+},
+"displayName": "Ma. Arianna Felicia Potenciano",
+"id": "5be974ded87c4b61b315cc09"
+},
+{
+"_id": "5bea26c1d87c4b61b315cc19",
+"accountStatus": "Active",
+"firstName": "Jerico Miguel",
+"familyName": "Lopez",
+"email": "jerico.lopez@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "5aab6e6816f9953b74f612c2",
+"name": "Content Manager"
+},
+"displayName": "Jerico Miguel Lopez",
+"id": "5bea26c1d87c4b61b315cc19"
+},
+{
+"_id": "5bf3c6c394fe7c138b7cc1ac",
+"accountStatus": "Active",
+"firstName": "Matthew Conner",
+"familyName": "Yu",
+"email": "matt.yu@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa775dbf8e1217ae0450",
+"name": "Senior Art Director"
+},
+"displayName": "Matthew Conner Yu",
+"id": "5bf3c6c394fe7c138b7cc1ac"
+},
+{
+"_id": "5bf670f694fe7c138b7cc29d",
+"accountStatus": "Active",
+"firstName": "Danielle Ann Camille",
+"familyName": "Bibera",
+"email": "dan.bibera@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Junior Copywriter"
+},
+"displayName": "Danielle Ann Camille Bibera",
+"id": "5bf670f694fe7c138b7cc29d"
+},
+{
+"_id": "5bfce8bd94fe7c138b7cc39a",
+"accountStatus": "Active",
+"firstName": "Deynielle",
+"familyName": "Mauricio",
+"email": "deyn.mauricio@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Deynielle Mauricio",
+"id": "5bfce8bd94fe7c138b7cc39a"
+},
+{
+"_id": "5c32b45294fe7c138b7cc9bb",
+"accountStatus": "Active",
+"firstName": "Jeannine Karen",
+"familyName": "Godinez",
+"email": "karen.godinez@nuworks.ph",
+"department": {
+"_id": "568cc218d44839f01e5c89ef",
+"name": "Human Resources"
+},
+"position": {
+"_id": "57e202825dbf8e1217ae0473",
+"name": "HR Assistant"
+},
+"displayName": "Jeannine Karen Godinez",
+"id": "5c32b45294fe7c138b7cc9bb"
+},
+{
+"_id": "5c32c2d794fe7c138b7cc9c0",
+"accountStatus": "Active",
+"firstName": "Rico Paulo",
+"familyName": "Banta",
+"email": "rico.banta@nuworks.ph",
+"department": {
+"_id": "568cc210d44839f01e5c89ee",
+"name": "Information Technology"
+},
+"position": {
+"_id": "577b3d89ba149dcb222c7b35",
+"name": "IT Manager"
+},
+"displayName": "Rico Paulo Banta",
+"id": "5c32c2d794fe7c138b7cc9c0"
+},
+{
+"_id": "5c330a2994fe7c138b7cc9d4",
+"accountStatus": "Active",
+"firstName": "Arianne Nicole",
+"familyName": "Batac",
+"email": "arianne.batac@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1faa65dbf8e1217ae0453",
+"name": "Software Developer -  Back End"
+},
+"displayName": "Arianne Nicole Batac",
+"id": "5c330a2994fe7c138b7cc9d4"
+},
+{
+"_id": "5c4fbb6e1e166e40533f50fd",
+"accountStatus": "Active",
+"firstName": "Alexis Ralph",
+"familyName": "Navarro",
+"email": "alexis.navarro@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e1ff145dbf8e1217ae0466",
+"name": "Systems Analyst"
+},
+"displayName": "Alexis Ralph Navarro",
+"id": "5c4fbb6e1e166e40533f50fd"
+},
+{
+"_id": "5c4fbd381e166e40533f50ff",
+"accountStatus": "Active",
+"firstName": "Ian Nicolo",
+"familyName": "Panlilio",
+"email": "ian.panlilio@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fb185dbf8e1217ae0457",
+"name": "Business Unit Manager"
+},
+"displayName": "Ian Nicolo Panlilio",
+"id": "5c4fbd381e166e40533f50ff"
+},
+{
+"_id": "5c5b9b252b58072c8ed9771d",
+"accountStatus": "Active",
+"firstName": "Isabela",
+"familyName": "Martinez",
+"email": "isai.martinez@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fb5c5dbf8e1217ae045a",
+"name": "Creative Director"
+},
+"displayName": "Isabela Martinez",
+"id": "5c5b9b252b58072c8ed9771d"
+},
+{
+"_id": "5c78cb362b58072c8ed97b06",
+"accountStatus": "Active",
+"firstName": "Iñigo Jose",
+"familyName": "Sinson",
+"email": "inigo.sinson@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fb5c5dbf8e1217ae045a",
+"name": "Creative Director"
+},
+"displayName": "Iñigo Jose Sinson",
+"id": "5c78cb362b58072c8ed97b06"
+},
+{
+"_id": "5c7cdab42b58072c8ed97b69",
+"accountStatus": "Active",
+"firstName": "Venn Jude\t",
+"familyName": "Francisco",
+"email": "vj.francisco@nuworks.ph",
+"department": {
+"_id": "5a0d642b2aece13864af6448",
+"name": "Technology"
+},
+"position": {
+"_id": "57e202365dbf8e1217ae046f",
+"name": "Experience Design Head"
+},
+"displayName": "Venn Jude\t Francisco",
+"id": "5c7cdab42b58072c8ed97b69"
+},
+{
+"_id": "5c88e768165da2080e8fe384",
+"accountStatus": "Active",
+"firstName": "Test-juan Miguel",
+"familyName": "TEST-Santos",
+"email": "bedok0104+12345@gmail.com",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "QA"
+},
+"displayName": "Test-juan Miguel TEST-Santos",
+"id": "5c88e768165da2080e8fe384"
+},
+{
+"_id": "5c9c7142450d7f142eb44bc4",
+"accountStatus": "Active",
+"firstName": "Kara Francesca",
+"familyName": "Yap",
+"email": "kara.bautista.yap@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa625dbf8e1217ae044e",
+"name": "Freelance Copywriter"
+},
+"displayName": "Kara Francesca Yap",
+"id": "5c9c7142450d7f142eb44bc4"
+},
+{
+"_id": "5ca2d68790175b6ba603f755",
+"accountStatus": "Active",
+"firstName": "Animesh",
+"familyName": "Roy",
+"email": "animesh.roy@nuworks.ph",
+"department": {
+"_id": "5806ebe2f89f3c2b3ab743c2",
+"name": "Corporate Communications"
+},
+"position": {
+"_id": "57e1fa6e5dbf8e1217ae044f",
+"name": "Corporate Strategist"
+},
+"displayName": "Animesh Roy",
+"id": "5ca2d68790175b6ba603f755"
+},
+{
+"_id": "5cab42930b376c43a492a2d1",
+"accountStatus": "Active",
+"firstName": "Dharyll Anne Vernice",
+"familyName": "Virina",
+"email": "vernice.virina@nuworks.ph",
+"department": {
+"_id": "5c7793a82b58072c8ed97acc",
+"name": "Analytics"
+},
+"position": {
+"_id": "57e1ff315dbf8e1217ae0468",
+"name": "Digital Analyst"
+},
+"displayName": "Dharyll Anne Vernice Virina",
+"id": "5cab42930b376c43a492a2d1"
+},
+{
+"_id": "5cad91490b376c43a492a2ee",
+"accountStatus": "Active",
+"firstName": "Marigrace",
+"familyName": "Sandoval",
+"email": "grace.sandoval@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1fa9c5dbf8e1217ae0452",
+"name": "Account Manager"
+},
+"displayName": "Marigrace Sandoval",
+"id": "5cad91490b376c43a492a2ee"
+},
+{
+"_id": "5cad96080b376c43a492a2ef",
+"accountStatus": "Active",
+"firstName": "Michaela Louise",
+"familyName": "Ante",
+"email": "kaela.ante@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fc585dbf8e1217ae0460",
+"name": "Graphic Designer"
+},
+"displayName": "Michaela Louise Ante",
+"id": "5cad96080b376c43a492a2ef"
+},
+{
+"_id": "5cbe995ba43c9e0f253a0011",
+"accountStatus": "Active",
+"firstName": "Emmanuel Jesus",
+"familyName": "Hilao",
+"email": "emmanuel.hilao@nuworks.ph",
+"department": {
+"_id": "57e1f89c5dbf8e1217ae043e",
+"name": "Client Services"
+},
+"position": {
+"_id": "57e1f9f85dbf8e1217ae0448",
+"name": "Account Supervisor"
+},
+"displayName": "Emmanuel Jesus Hilao",
+"id": "5cbe995ba43c9e0f253a0011"
+},
+{
+"_id": "5cbea6ffa43c9e0f253a0014",
+"accountStatus": "Active",
+"firstName": "Czarina Gizelle",
+"familyName": "Libiran",
+"email": "g.libiran@nuworks.ph",
+"department": {
+"_id": "57e1f8e35dbf8e1217ae0442",
+"name": "Media"
+},
+"position": {
+"_id": "57e1ff025dbf8e1217ae0465",
+"name": "Senior Influencer Marketing Manager"
+},
+"displayName": "Czarina Gizelle Libiran",
+"id": "5cbea6ffa43c9e0f253a0014"
+},
+{
+"_id": "5cbea9c5a43c9e0f253a0015",
+"accountStatus": "Active",
+"firstName": "Renassar",
+"familyName": "Viray",
+"email": "renzo.viray@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fa775dbf8e1217ae0450",
+"name": "Art Director"
+},
+"displayName": "Renassar Viray",
+"id": "5cbea9c5a43c9e0f253a0015"
+},
+{
+"_id": "5cbeac32a43c9e0f253a0016",
+"accountStatus": "Active",
+"firstName": "Lawrence Jonathan",
+"familyName": "Santos",
+"email": "jonathan.santos@nuworks.ph",
+"department": {
+"_id": "57e1f8d15dbf8e1217ae0441",
+"name": "Stratalytics"
+},
+"position": {
+"_id": "57e1fa6e5dbf8e1217ae044f",
+"name": "Senior Strategic Planner"
+},
+"displayName": "Lawrence Jonathan Santos",
+"id": "5cbeac32a43c9e0f253a0016"
+},
+{
+"_id": "5cd0e33f8883146c311a43e2",
+"accountStatus": "Active",
+"firstName": "Ma Corazon",
+"familyName": "Cruz",
+"email": "corey.cruz@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1fb5c5dbf8e1217ae045a",
+"name": "Creative Consultant"
+},
+"displayName": "Ma Corazon Cruz",
+"id": "5cd0e33f8883146c311a43e2"
+},
+{
+"_id": "5cdcb1584a3e5149f1b50638",
+"accountStatus": "Active",
+"firstName": "John Carl",
+"familyName": "Aujero",
+"email": "jc.aujero@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "5cc80c90d2888a15e9ce9239",
+"name": "Designer"
+},
+"displayName": "John Carl Aujero",
+"id": "5cdcb1584a3e5149f1b50638"
+},
+{
+"_id": "5cdcb4654a3e5149f1b50639",
+"accountStatus": "Active",
+"firstName": "Ann Margaret",
+"familyName": "Ching",
+"email": "maggie.ching@nuworks.ph",
+"department": {
+"_id": "5806ebe2f89f3c2b3ab743c2",
+"name": "Corporate Communications"
+},
+"position": {
+"_id": "5cc80c90d2888a15e9ce9239",
+"name": "Designer Trainee"
+},
+"displayName": "Ann Margaret Ching",
+"id": "5cdcb4654a3e5149f1b50639"
+},
+{
+"_id": "5cdcbb6d4a3e5149f1b5063e",
+"accountStatus": "Active",
+"firstName": "Angelo Vittorrio",
+"familyName": "Estrella",
+"email": "angelo.estrella@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "57e1f9d75dbf8e1217ae0446",
+"name": "Associate Creative Director"
+},
+"displayName": "Angelo Vittorrio Estrella",
+"id": "5cdcbb6d4a3e5149f1b5063e"
+},
+{
+"_id": "5cdcf3484a3e5149f1b5064d",
+"accountStatus": "Active",
+"firstName": "Jose Antonio Miguel",
+"familyName": "Quesada",
+"email": "migs.quesada@nuworks.ph",
+"department": {
+"_id": "57e1f8a65dbf8e1217ae043f",
+"name": "Creatives"
+},
+"position": {
+"_id": "5cc80cb1d2888a15e9ce923c",
+"name": "Senior Copywriter"
+},
+"displayName": "Jose Antonio Miguel Quesada",
+"id": "5cdcf3484a3e5149f1b5064d"
+},
+{
+"_id": "5d19d4abe130d8009ed5fcad",
+"accountStatus": "Active",
+"firstName": "Testing",
+"familyName": "Test User",
+"email": "test@nuworks.ph",
+"department": {
+"_id": "568cc224d44839f01e5c89f0",
+"name": "Accounting & Finance"
+},
+"position": {
+"_id": "57e1f9f85dbf8e1217ae0448",
+"name": "test"
+},
+"displayName": "Testing Test User",
+"id": "5d19d4abe130d8009ed5fcad"
+}
+]
