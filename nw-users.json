@@ -1228,6 +1228,7 @@
 "accountStatus": "Active",
 "firstName": "Ervinne",
 "familyName": "Sodusta",
+  "has_worklogs_acces": true,
 "email": "ervinne.sodusta@nuworks.ph",
 "department": {
 "_id": "5a0d642b2aece13864af6448",
